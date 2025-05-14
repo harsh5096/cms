@@ -54,12 +54,17 @@
 }
 
 .hero p {
-    font-family: cursive;
-    font-size: 1.3em;
+    /* font-family: cursive; */
+    font-size: 1.3em
+27.04px
+;
     line-height: 1.8;
-    color: #6c757d;
+    color: #57595b;
     margin-bottom: 40px;
+    font-family: 'Century Gothic', 'Futura', sans-serif;
     text-align: left;
+    font-weight: 550;
+    font-size: 'Century Gothic', 'Futura', sans-serif;
 }
 
 .hero-btn1 {
