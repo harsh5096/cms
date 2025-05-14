@@ -664,12 +664,11 @@ a {
         align-items: center;
         text-align: center;
     }
-    #vision p {
+        #vision p {
         font-family: cursive;
         font-size: 20px;
         color: rgb(54 127 176);
-        padding-bottom: 22px;
-    }
+        padding-bottom
 }
 
 @media (max-width: 607px) {
